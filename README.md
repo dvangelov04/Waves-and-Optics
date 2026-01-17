@@ -1,4 +1,4 @@
-# language: python
+# Language: Python
 # Code Author: Hiskelyn Mette Kleinbekman
 # Date: 17th Jan 2026
 
